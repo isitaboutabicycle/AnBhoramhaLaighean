@@ -1,0 +1,1987 @@
+﻿[
+{
+"teidil":"A",
+"rannCainte":"poss pron",
+"sainmhiiniuu":"his, hers, their"
+},
+{
+"teidil":"A",
+"rannCainte":"prep",
+"sainmhiiniuu":"from"
+},
+{
+"teidil":"Aḋnaḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"was kindled"
+},
+{
+"teidil":"Aḋɼuiġṫe",
+"rannCainte":"prtcpl",
+"sainmhiiniuu":"adored"
+},
+{
+"teidil":"Ael",
+"rannCainte":"n",
+"sainmhiiniuu":"a flesh fork"
+},
+{
+"teidil":"Aġ / Ag",
+"rannCainte":"n",
+"sainmhiiniuu":"a deer, or calf?"
+},
+{
+"teidil":"Aga",
+"rannCainte":"adj",
+"sainmhiiniuu":"warlike"
+},
+{
+"teidil":"Agallaṁ",
+"rannCainte":"n",
+"sainmhiiniuu":"talking, conversing"
+},
+{
+"teidil":"Aiḋḃli",
+"rannCainte":"adj",
+"sainmhiiniuu":"great, vast"
+},
+{
+"teidil":"Ailliḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"Aill\" a cliff"
+},
+{
+"teidil":"Aigine",
+"rannCainte":"n",
+"sainmhiiniuu":"mind, temper; gen of \"aigne\"?"
+},
+{
+"teidil":"Aiɼc",
+"rannCainte":"n",
+"sainmhiiniuu":"a straight, a difficulty"
+},
+{
+"teidil":"Aiɼcinneaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"an overseer"
+},
+{
+"teidil":"Aiɼiġe",
+"rannCainte":"n",
+"sainmhiiniuu":"choice provisions"
+},
+{
+"teidil":"Aiɼſſeam",
+"rannCainte":"v",
+"sainmhiiniuu":"let us wait"
+},
+{
+"teidil":"Aiɼne",
+"rannCainte":"n",
+"sainmhiiniuu":"sloes"
+},
+{
+"teidil":"Aiɼe ſin",
+"rannCainte":"for that.",
+"sainmhiiniuu":"for that"
+},
+{
+"teidil":"Aiſge",
+"rannCainte":"n",
+"sainmhiiniuu":"a boon"
+},
+{
+"teidil":"Aiṫḃeoġaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"revival"
+},
+{
+"teidil":"Aiɼiſ",
+"rannCainte":"v",
+"sainmhiiniuu":"wait, stay"
+},
+{
+"teidil":"Ain",
+"rannCainte":"adj",
+"sainmhiiniuu":"gen of \"Án\"; splendid, noble"
+},
+{
+"teidil":"Ainɼiata",
+"rannCainte":"adj",
+"sainmhiiniuu":"wild, untamed"
+},
+{
+"teidil":"An",
+"rannCainte":"pron",
+"sainmhiiniuu":"that which (obsolete)"
+},
+{
+"teidil":"Aiṫſnaiḋmeaḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"was refastened"
+},
+{
+"teidil":"Aiṫle",
+"rannCainte":"prep",
+"sainmhiiniuu":"after"
+},
+{
+"teidil":"Aiṫne",
+"rannCainte":"n",
+"sainmhiiniuu":"acquaintance"
+},
+{
+"teidil":"Algen / go halgen",
+"rannCainte":"adv",
+"sainmhiiniuu":"pleasantly"
+},
+{
+"teidil":"Alt",
+"rannCainte":"n",
+"sainmhiiniuu":"a joint"
+},
+{
+"teidil":"Aṁ",
+"rannCainte":"(an expletive)",
+"sainmhiiniuu":"indeed, even so, verily"
+},
+{
+"teidil":"Aṁlaiḋ",
+"rannCainte":"adv",
+"sainmhiiniuu":"thus"
+},
+{
+"teidil":"Aṁnuſ",
+"rannCainte":"adv",
+"sainmhiiniuu":"warlike"
+},
+{
+"teidil":"Amuſ",
+"rannCainte":"n",
+"sainmhiiniuu":"a visit, an attack"
+},
+{
+"teidil":"Anacal",
+"rannCainte":"n",
+"sainmhiiniuu":"quarter, mercy"
+},
+{
+"teidil":"Anfann",
+"rannCainte":"adj",
+"sainmhiiniuu":"weak, worn out"
+},
+{
+"teidil":"Annſa",
+"rannCainte":"adj",
+"sainmhiiniuu":"hard, difficult; \"ní annſa\", not difficult"
+},
+{
+"teidil":"Aɼa",
+"rannCainte":"n",
+"sainmhiiniuu":"a charioteer"
+},
+{
+"teidil":"Aɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"slaughter"
+},
+{
+"teidil":"Aɼm-ſlaide",
+"rannCainte":"n",
+"sainmhiiniuu":"weapon-spoil, combat"
+},
+{
+"teidil":"Aɼuſ",
+"rannCainte":"n",
+"sainmhiiniuu":"a habitation"
+},
+{
+"teidil":"At",
+"rannCainte":"v",
+"sainmhiiniuu":"they ar (obsolete)"
+},
+{
+"teidil":"Atḃeirim",
+"rannCainte":"v",
+"sainmhiiniuu":"I say; do"
+},
+{
+"teidil":"Atḃiuɼſa",
+"rannCainte":"v",
+"sainmhiiniuu":"I take(?) do"
+},
+{
+"teidil":"Atċiuſa",
+"rannCainte":"v",
+"sainmhiiniuu":"I see; do"
+},
+{
+"teidil":"Aṫċuinge",
+"rannCainte":"n",
+"sainmhiiniuu":"a repeated request"
+},
+{
+"teidil":"Atraċt",
+"rannCainte":"n",
+"sainmhiiniuu":"a rising (obsolete)"
+},
+{
+"teidil":"Baġa",
+"rannCainte":"adj",
+"sainmhiiniuu":"valour"
+},
+{
+"teidil":"Bhagaiɼiſ",
+"rannCainte":"v",
+"sainmhiiniuu":"thou didst threaten"
+},
+{
+"teidil":"Baiġe",
+"rannCainte":"n",
+"sainmhiiniuu":"a battle, or combat; \"báġa\"; combats"
+},
+{
+"teidil":"Baiɼc",
+"rannCainte":"n",
+"sainmhiiniuu":"a stronghold"
+},
+{
+"teidil":"Baill",
+"rannCainte":"n",
+"sainmhiiniuu":"members"
+},
+{
+"teidil":"Ball",
+"rannCainte":"n",
+"sainmhiiniuu":"a member, a spot; \"aɼ an mball\", on the spot"
+},
+{
+"teidil":"Bana",
+"rannCainte":"n",
+"sainmhiiniuu":"a bond; \"banna\", idem"
+},
+{
+"teidil":"Baɼa",
+"rannCainte":"n",
+"sainmhiiniuu":"a barrow"
+},
+{
+"teidil":"Beannċopɼaċ",
+"rannCainte":"adj",
+"sainmhiiniuu":"pinnacle-roofed"
+},
+{
+"teidil":"Beaɼḃaḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"were boiled"
+},
+{
+"teidil":"Beáɼna",
+"rannCainte":"n",
+"sainmhiiniuu":"a gap"
+},
+{
+"teidil":"Bil",
+"rannCainte":"adj",
+"sainmhiiniuu":"good"
+},
+{
+"teidil":"Boċtanaſ",
+"rannCainte":"n",
+"sainmhiiniuu":"poverty"
+},
+{
+"teidil":"Boɼbaiɼiġe",
+"rannCainte":"n",
+"sainmhiiniuu":"nom plu of \"boɼbaɼ\", a barbarian, a champion"
+},
+{
+"teidil":"Boɼaṁa",
+"rannCainte":"n",
+"sainmhiiniuu":"a tribute"
+},
+{
+"teidil":"Boɼbdálaċ",
+"rannCainte":"adj",
+"sainmhiiniuu":"of fierce muster; said of Brandubh"
+},
+{
+"teidil":"Boṫaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"boṫ\", a tent or hut"
+},
+{
+"teidil":"Boṫiġe",
+"rannCainte":"n",
+"sainmhiiniuu":"a cow-house, or hut"
+},
+{
+"teidil":"Bɼáiġdiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"captives; dat plu"
+},
+{
+"teidil":"Bhɼaṫ",
+"rannCainte":"v",
+"sainmhiiniuu":"to spy"
+},
+{
+"teidil":"Bɼeatnaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"Britain, or Wales; dat plu"
+},
+{
+"teidil":"Bhɼiſ",
+"rannCainte":"v",
+"sainmhiiniuu":"broke, defeated"
+},
+{
+"teidil":"Bɼiſeaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"a defeat, a breaking"
+},
+{
+"teidil":"Bɼó",
+"rannCainte":"n",
+"sainmhiiniuu":"a quern"
+},
+{
+"teidil":"Bɼog",
+"rannCainte":"n",
+"sainmhiiniuu":"a house, a habitation"
+},
+{
+"teidil":"Bɼuaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"border, or brink"
+},
+{
+"teidil":"Bɼuinne",
+"rannCainte":"n",
+"sainmhiiniuu":"a bosom; gen sing of \"bɼonn\""
+},
+{
+"teidil":"Bɼuſgaɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"noise made by the march of an army"
+},
+{
+"teidil":"Buaiḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"victory"
+},
+{
+"teidil":"Buaiḋeaḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"was won; cf \"Do buaiḋeaḋ leat Luimneaċ\" Lament for Sarsfield"
+},
+{
+"teidil":"Buaɼġaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"spancels for cows; dat plu"
+},
+{
+"teidil":"Builg",
+"rannCainte":"n",
+"sainmhiiniuu":"sacks"
+},
+{
+"teidil":"Buinne-dilenn",
+"rannCainte":"n",
+"sainmhiiniuu":"a flood stream"
+},
+{
+"teidil":"Bhuſ",
+"rannCainte":"v",
+"sainmhiiniuu":"that will be; relative future"
+},
+{
+"teidil":"Cáiḋ",
+"rannCainte":"adj",
+"sainmhiiniuu":"chaste"
+},
+{
+"teidil":"Cáin",
+"rannCainte":"n",
+"sainmhiiniuu":"tax, tribute"
+},
+{
+"teidil":"Cáinte",
+"rannCainte":"n",
+"sainmhiiniuu":"a satirist"
+},
+{
+"teidil":"Cáiɼde",
+"rannCainte":"n",
+"sainmhiiniuu":"respite"
+},
+{
+"teidil":"Cáiɼde",
+"rannCainte":"n",
+"sainmhiiniuu":"friends"
+},
+{
+"teidil":"Cána",
+"rannCainte":"n",
+"sainmhiiniuu":"gen sing of \"cáin\", a tax"
+},
+{
+"teidil":"Canaḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"was played or sung"
+},
+{
+"teidil":"Canóin",
+"rannCainte":"n",
+"sainmhiiniuu":"a canon or rule"
+},
+{
+"teidil":"Caogad",
+"rannCainte":"n",
+"sainmhiiniuu":"fifty"
+},
+{
+"teidil":"Caɼbad",
+"rannCainte":"n",
+"sainmhiiniuu":"a chariot"
+},
+{
+"teidil":"Cé",
+"rannCainte":"n",
+"sainmhiiniuu":"earth, clay; \"Aɼ biṫ ċé\", on the earthly world"
+},
+{
+"teidil":"Caṫa",
+"rannCainte":"n",
+"sainmhiiniuu":"worship, worshipful(?)"
+},
+{
+"teidil":"Caṫa",
+"rannCainte":"n",
+"sainmhiiniuu":"battles, nom plu of \"caṫ\""
+},
+{
+"teidil":"Cheana",
+"rannCainte":"however",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Ceannſaċt",
+"rannCainte":"n",
+"sainmhiiniuu":"clemency, mercy"
+},
+{
+"teidil":"Ceap",
+"rannCainte":"n",
+"sainmhiiniuu":"a block of wood"
+},
+{
+"teidil":"Ceaɼna",
+"rannCainte":"n",
+"sainmhiiniuu":"a corner"
+},
+{
+"teidil":"Ceilg",
+"rannCainte":"n",
+"sainmhiiniuu":"dative of \"cealg\", deceit, treachery"
+},
+{
+"teidil":"Cian",
+"rannCainte":"adv",
+"sainmhiiniuu":"far distant, long since"
+},
+{
+"teidil":"Ciaɼ",
+"rannCainte":"adj",
+"sainmhiiniuu":"black"
+},
+{
+"teidil":"Cíoſa",
+"rannCainte":"n",
+"sainmhiiniuu":"gen sing of \"cíoſ\", rent"
+},
+{
+"teidil":"Claiṁ",
+"rannCainte":"n",
+"sainmhiiniuu":"gen sing of claṁ, a leper"
+},
+{
+"teidil":"Claoiḋeaḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"were defeated"
+},
+{
+"teidil":"Cléiɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"a retinue, dat; \"cliaɼ\", nom"
+},
+{
+"teidil":"Cliaḃaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"cliaḃ\", a hamper"
+},
+{
+"teidil":"Clí",
+"rannCainte":"n",
+"sainmhiiniuu":"the body"
+},
+{
+"teidil":"Cliaṁuin",
+"rannCainte":"n",
+"sainmhiiniuu":"a son-in-law; relationship by marriage"
+},
+{
+"teidil":"Cliṫi",
+"rannCainte":"prtcpl",
+"sainmhiiniuu":"concealed (obsolete)"
+},
+{
+"teidil":"Cluiċe",
+"rannCainte":"n",
+"sainmhiiniuu":"a game"
+},
+{
+"teidil":"Codaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"a covenant"
+},
+{
+"teidil":"Coeṁna",
+"rannCainte":"n",
+"sainmhiiniuu":"contract, bargain"
+},
+{
+"teidil":"Coṁlann",
+"rannCainte":"n",
+"sainmhiiniuu":"combat"
+},
+{
+"teidil":"Coċal",
+"rannCainte":"n",
+"sainmhiiniuu":"a hood"
+},
+{
+"teidil":"Coiḋiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"milk pails (?) dat plu"
+},
+{
+"teidil":"Coiṁḋe",
+"rannCainte":"n",
+"sainmhiiniuu":"the Godhead; \"Coiṁḋeaḋ\", gen"
+},
+{
+"teidil":"Coinniṁ",
+"rannCainte":"n",
+"sainmhiiniuu":"one billeted"
+},
+{
+"teidil":"Coinnṁeaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"a billeting"
+},
+{
+"teidil":"Coiɼe",
+"rannCainte":"n",
+"sainmhiiniuu":"a cauldron"
+},
+{
+"teidil":"Coiſeonadaoiſ",
+"rannCainte":"v",
+"sainmhiiniuu":"conditional plu of \"coſnaim\", I defend"
+},
+{
+"teidil":"Coṁbagaċ",
+"rannCainte":"adj",
+"sainmhiiniuu":"equally warlike"
+},
+{
+"teidil":"Coṁḋáil",
+"rannCainte":"n",
+"sainmhiiniuu":"a meeting, a convention"
+},
+{
+"teidil":"Cnaoi",
+"rannCainte":"n",
+"sainmhiiniuu":"nuts"
+},
+{
+"teidil":"Chneaḋaiġ",
+"rannCainte":"adj",
+"sainmhiiniuu":"wounded"
+},
+{
+"teidil":"Conn",
+"rannCainte":"n",
+"sainmhiiniuu":"sense (?)"
+},
+{
+"teidil":"Coiṁlíon",
+"rannCainte":"adj",
+"sainmhiiniuu":"equal in number"
+},
+{
+"teidil":"Chomail",
+"rannCainte":"v",
+"sainmhiiniuu":"past tense of \"comailim\", I promise, I fulfil"
+},
+{
+"teidil":"Coṁɼann",
+"rannCainte":"n",
+"sainmhiiniuu":"distribution"
+},
+{
+"teidil":"Coṁmaoiḋeaṁ",
+"rannCainte":"n",
+"sainmhiiniuu":"congradulation, joy"
+},
+{
+"teidil":"Connaiɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"a road, a way"
+},
+{
+"teidil":"Coſcɼaḋ / Coṡgaɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"slaughter, defeat"
+},
+{
+"teidil":"Cɼáiḃiḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"an old dat of \"cɼáḃaḋ\", piety"
+},
+{
+"teidil":"Cɼáiḋim",
+"rannCainte":"v",
+"sainmhiiniuu":"I torture, or oppress"
+},
+{
+"teidil":"Cɼannóg",
+"rannCainte":"n",
+"sainmhiiniuu":"a goblet"
+},
+{
+"teidil":"Cɼann-cɼoiſe",
+"rannCainte":"n",
+"sainmhiiniuu":"a crutch"
+},
+{
+"teidil":"Cɼeduṁa",
+"rannCainte":"n",
+"sainmhiiniuu":"bronze"
+},
+{
+"teidil":"Cɼó",
+"rannCainte":"n",
+"sainmhiiniuu":"a hedge, a fold; \"Cɼó boḋḃa\", n, a warlike fold"
+},
+{
+"teidil":"Cuiḃɼionn",
+"rannCainte":"n",
+"sainmhiiniuu":"a ration, a portion"
+},
+{
+"teidil":"Cuigiḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"gen sing of \"cuigeaḋ\", a province; now generally \"cuige\""
+},
+{
+"teidil":"Cuṁa",
+"rannCainte":"n",
+"sainmhiiniuu":"grief"
+},
+{
+"teidil":"Cuṁaiḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"old dat of \"cuṁa[ḋ]\", grief"
+},
+{
+"teidil":"Cun",
+"rannCainte":"n",
+"sainmhiiniuu":"gen plu of \"cú\", a dog, a hound; \"cuana\" dogs"
+},
+{
+"teidil":"Cuɼaiḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"gen sing of \"cuɼaḋ\", a hero"
+},
+{
+"teidil":"Cuſlaiġiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"cuſlaḋ\" (?) a handle (?)"
+},
+{
+"teidil":"Daḃaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"a vat, a tub"
+},
+{
+"teidil":"Dáil",
+"rannCainte":"n",
+"sainmhiiniuu":"a meeting, a decree, &c"
+},
+{
+"teidil":"Daingean",
+"rannCainte":"n",
+"sainmhiiniuu":"a fastness"
+},
+{
+"teidil":"Dál",
+"rannCainte":"n",
+"sainmhiiniuu":"an assembly"
+},
+{
+"teidil":"Dala",
+"rannCainte":"prep",
+"sainmhiiniuu":"as to, as far"
+},
+{
+"teidil":"Daṁɼaḋa",
+"rannCainte":"n",
+"sainmhiiniuu":"oxen; \"daṁɼuiḃ\"; dat plu"
+},
+{
+"teidil":"Dána",
+"rannCainte":"n",
+"sainmhiiniuu":"gen of \"dán\", a poem"
+},
+{
+"teidil":"Dáno / Dno",
+"rannCainte":"moreover",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Daſataċ",
+"rannCainte":"adj",
+"sainmhiiniuu":"frantic, bold"
+},
+{
+"teidil":"Dealḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"shape, form"
+},
+{
+"teidil":"Deaḃaiḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"a fight"
+},
+{
+"teidil":"Deiſceaɼt / Deaſcaɼt",
+"rannCainte":"n",
+"sainmhiiniuu":"south part; \"deiſciɼt\", gen"
+},
+{
+"teidil":"Deaċt",
+"rannCainte":"n",
+"sainmhiiniuu":"divinity"
+},
+{
+"teidil":"Deaɼḃcomaltaiḋe",
+"rannCainte":"foster brothers.",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Deaɼcain",
+"rannCainte":"n",
+"sainmhiiniuu":"berries"
+},
+{
+"teidil":"Deiliuġaḋ",
+"rannCainte":"verbal n",
+"sainmhiiniuu":"separating, departing"
+},
+{
+"teidil":"Deiċneaṁaɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"ten persons"
+},
+{
+"teidil":"Déine",
+"rannCainte":"n",
+"sainmhiiniuu":"swiftness, ardour"
+},
+{
+"teidil":"Dén",
+"rannCainte":"v",
+"sainmhiiniuu":"an old future of \"deunaim\", I do, I make"
+},
+{
+"teidil":"Détla",
+"rannCainte":"adj",
+"sainmhiiniuu":"bold"
+},
+{
+"teidil":"Diaḋa",
+"rannCainte":"adj",
+"sainmhiiniuu":"divine, holy"
+},
+{
+"teidil":"Dian-aiṫɼiġe",
+"rannCainte":"n",
+"sainmhiiniuu":"swift-repentance"
+},
+{
+"teidil":"Diaṁaɼ",
+"rannCainte":"adj",
+"sainmhiiniuu":"secret"
+},
+{
+"teidil":"Didean",
+"rannCainte":"n",
+"sainmhiiniuu":"shelter"
+},
+{
+"teidil":"Dimiaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"dishonour"
+},
+{
+"teidil":"Din",
+"rannCainte":"adv",
+"sainmhiiniuu":"well, however"
+},
+{
+"teidil":"Dingḃala",
+"rannCainte":"adj",
+"sainmhiiniuu":"proper, perfect"
+},
+{
+"teidil":"Dioġail",
+"rannCainte":"n",
+"sainmhiiniuu":"revenge"
+},
+{
+"teidil":"Dioġailfeaɼ",
+"rannCainte":"v",
+"sainmhiiniuu":"will be revenged"
+},
+{
+"teidil":"Dioġalt",
+"rannCainte":"v",
+"sainmhiiniuu":"to avenge"
+},
+{
+"teidil":"Díon",
+"rannCainte":"n",
+"sainmhiiniuu":"shelter"
+},
+{
+"teidil":"Diuḃɼaic",
+"rannCainte":"v",
+"sainmhiiniuu":"shot, cast; past tense"
+},
+{
+"teidil":"Doċɼaiḋe",
+"rannCainte":"adj",
+"sainmhiiniuu":"grievous"
+},
+{
+"teidil":"Doḟualaing",
+"rannCainte":"adj",
+"sainmhiiniuu":"intolerable"
+},
+{
+"teidil":"Doṁeanma",
+"rannCainte":"n",
+"sainmhiiniuu":"faint-heartedness"
+},
+{
+"teidil":"Doɼnaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"doɼn\", a handle"
+},
+{
+"teidil":"Dualgaſ",
+"rannCainte":"n",
+"sainmhiiniuu":"wages"
+},
+{
+"teidil":"Duan",
+"rannCainte":"n",
+"sainmhiiniuu":"a poem"
+},
+{
+"teidil":"Dúil",
+"rannCainte":"n",
+"sainmhiiniuu":"the elements"
+},
+{
+"teidil":"Dúl",
+"rannCainte":"n",
+"sainmhiiniuu":"an element"
+},
+{
+"teidil":"Dúin",
+"rannCainte":"gen sing of \"dún\"",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Eaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"a steed"
+},
+{
+"teidil":"Eaċd",
+"rannCainte":"n",
+"sainmhiiniuu":"an act, a deed"
+},
+{
+"teidil":"Eadána",
+"rannCainte":"adj",
+"sainmhiiniuu":"timid"
+},
+{
+"teidil":"Eagcoiṁneaɼta",
+"rannCainte":"n",
+"sainmhiiniuu":"weakness"
+},
+{
+"teidil":"Eagnaɼca",
+"rannCainte":"n",
+"sainmhiiniuu":"requiem"
+},
+{
+"teidil":"Eaḋon",
+"rannCainte":"adv",
+"sainmhiiniuu":"to wit, namely"
+},
+{
+"teidil":"Ealta",
+"rannCainte":"n",
+"sainmhiiniuu":"flocks"
+},
+{
+"teidil":"Eaɼbailliḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"eaɼball\""
+},
+{
+"teidil":"Eigean",
+"rannCainte":"n",
+"sainmhiiniuu":"need, force, violence"
+},
+{
+"teidil":"Eineaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"honour, bounty, &c"
+},
+{
+"teidil":"Eiɼic.",
+"rannCainte":"",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Euċda",
+"rannCainte":"n",
+"sainmhiiniuu":"deeds, acts"
+},
+{
+"teidil":"Eug / Éag",
+"rannCainte":"death.",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Eug",
+"rannCainte":"v",
+"sainmhiiniuu":"past tense of \"eugaim\", I die"
+},
+{
+"teidil":"Euloġaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"eloping, running away"
+},
+{
+"teidil":"Fáṫ",
+"rannCainte":"n",
+"sainmhiiniuu":"cause or reason"
+},
+{
+"teidil":"Faiṫċe",
+"rannCainte":"n",
+"sainmhiiniuu":"a green, a pasture"
+},
+{
+"teidil":"Fanait",
+"rannCainte":"n",
+"sainmhiiniuu":"a place in Donegal; used in the text to designate the men from the northern part of Ireland"
+},
+{
+"teidil":"Faɼɼaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"nearness, company"
+},
+{
+"teidil":"Feaċt",
+"rannCainte":"n",
+"sainmhiiniuu":"time, place, &c"
+},
+{
+"teidil":"Feaḋaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"fioḋ\", a wood"
+},
+{
+"teidil":"Feaɼadaɼ",
+"rannCainte":"v",
+"sainmhiiniuu":"past tense 3rd plural of \"feaɼaim\", I fight, &c"
+},
+{
+"teidil":"Fiaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"raven"
+},
+{
+"teidil":"Fioċda",
+"rannCainte":"adj",
+"sainmhiiniuu":"fierce"
+},
+{
+"teidil":"Fiḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"wood, same as \"Fioḋ\""
+},
+{
+"teidil":"Fiḋċeall",
+"rannCainte":"n",
+"sainmhiiniuu":"chess-board, chess"
+},
+{
+"teidil":"Fine",
+"rannCainte":"n",
+"sainmhiiniuu":"tribe, family"
+},
+{
+"teidil":"Fíɼinne coṁlainn",
+"rannCainte":"n",
+"sainmhiiniuu":"\"truth of combat\""
+},
+{
+"teidil":"Fó",
+"rannCainte":"prep",
+"sainmhiiniuu":"under; \"Fá, fé, faoi\", idem; sometimes answering to the termination \"ly\" in English; \"Fó ṫuaiġ\", northerly"
+},
+{
+"teidil":"Foġluinte",
+"rannCainte":"n",
+"sainmhiiniuu":"a student"
+},
+{
+"teidil":"Foɼaiɼe",
+"rannCainte":"n",
+"sainmhiiniuu":"watching"
+},
+{
+"teidil":"Fhoɼcan",
+"rannCainte":"v",
+"sainmhiiniuu":"past tense of \"foɼcanaim\", or \"foɼċanaim\", I teach"
+},
+{
+"teidil":"Foɼcliḋ",
+"rannCainte":"adv",
+"sainmhiiniuu":"noble"
+},
+{
+"teidil":"Foiɼéigne",
+"rannCainte":"n",
+"sainmhiiniuu":"gen of \"foiɼéigean\", necessity, violence"
+},
+{
+"teidil":"Foſaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"a truce"
+},
+{
+"teidil":"Fɼeaſdail",
+"rannCainte":"n",
+"sainmhiiniuu":"attendence"
+},
+{
+"teidil":"Fuloċt",
+"rannCainte":"n",
+"sainmhiiniuu":"a collop (?)"
+},
+{
+"teidil":"Ghaḃ",
+"rannCainte":"v",
+"sainmhiiniuu":"took, seized; infin \"gaḃáil\""
+},
+{
+"teidil":"Gaiḋiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"gai\", a lance"
+},
+{
+"teidil":"Giḃiſ",
+"rannCainte":"n",
+"sainmhiiniuu":"a socket, a glen"
+},
+{
+"teidil":"Giolla",
+"rannCainte":"n",
+"sainmhiiniuu":"a servant"
+},
+{
+"teidil":"Glonn",
+"rannCainte":"n",
+"sainmhiiniuu":"a deed"
+},
+{
+"teidil":"Go nice / Go nige ſo",
+"rannCainte":"adv",
+"sainmhiiniuu":"up to this; up to the present"
+},
+{
+"teidil":"Gɼaiḋiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"Gɼaiḋ\", or \"Gɼaiġ\", a stud of horses"
+},
+{
+"teidil":"Gɼeaḋa",
+"rannCainte":"n",
+"sainmhiiniuu":"horses; \"Gɼeaḋ\", a horse"
+},
+{
+"teidil":"Gɼeim",
+"rannCainte":"n",
+"sainmhiiniuu":"profit; a grip, a hold"
+},
+{
+"teidil":"Gɼeiſſ",
+"rannCainte":"n",
+"sainmhiiniuu":"an attack"
+},
+{
+"teidil":"Gɼinn",
+"rannCainte":"adj",
+"sainmhiiniuu":"lovely, pleasant"
+},
+{
+"teidil":"Guḃa",
+"rannCainte":"n",
+"sainmhiiniuu":"lamentation"
+},
+{
+"teidil":"Iaḋdaɼ",
+"rannCainte":"v",
+"sainmhiiniuu":"past tense plu, they did shut"
+},
+{
+"teidil":"Iaiċ",
+"rannCainte":"n",
+"sainmhiiniuu":"plu of \"Iaċ\", a salmon"
+},
+{
+"teidil":"Iaɼ",
+"rannCainte":"prep",
+"sainmhiiniuu":"after; also the west"
+},
+{
+"teidil":"Iaɼfaiġiſ",
+"rannCainte":"v",
+"sainmhiiniuu":"asks; usually called the historic present"
+},
+{
+"teidil":"Iaɼtan",
+"rannCainte":"adv",
+"sainmhiiniuu":"afterwards; sometimes \"iaɼttain\""
+},
+{
+"teidil":"Iaɼum",
+"rannCainte":"adv",
+"sainmhiiniuu":"at all"
+},
+{
+"teidil":"Il-ealta",
+"rannCainte":"n",
+"sainmhiiniuu":"many flocks"
+},
+{
+"teidil":"Imálla",
+"rannCainte":"prep",
+"sainmhiiniuu":"among; along with"
+},
+{
+"teidil":"Imiɼt",
+"rannCainte":"v",
+"sainmhiiniuu":"to play a game"
+},
+{
+"teidil":"Imniḋe",
+"rannCainte":"n",
+"sainmhiiniuu":"care, diligence"
+},
+{
+"teidil":"Immoɼɼo",
+"rannCainte":"conj",
+"sainmhiiniuu":"but, moreover; also \"iommoɼɼo\", \"immeɼɼo\""
+},
+{
+"teidil":"Indɼiuḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"ravaging, spoiling; \"ionnɼaḋ\", idem"
+},
+{
+"teidil":"Inġin",
+"rannCainte":"n",
+"sainmhiiniuu":"dat of \"inġean\", a daughter"
+},
+{
+"teidil":"Inġeanɼaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"daughters"
+},
+{
+"teidil":"Imṡnioṁ",
+"rannCainte":"n",
+"sainmhiiniuu":"sadness"
+},
+{
+"teidil":"Ioḋbuiɼeaſ",
+"rannCainte":"v",
+"sainmhiiniuu":"relative present of \"ioḋbaiɼim\"; I offer, I sacrifice"
+},
+{
+"teidil":"Iompoiḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"turns, waves (?)"
+},
+{
+"teidil":"Ionad",
+"rannCainte":"n",
+"sainmhiiniuu":"a place, a locality"
+},
+{
+"teidil":"Láṁnaḋ",
+"rannCainte":"nativity",
+"sainmhiiniuu":""
+},
+{
+"teidil":"laoċɼaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"warriors; dat plu of \"Laoċ\""
+},
+{
+"teidil":"Laoċ",
+"rannCainte":"n",
+"sainmhiiniuu":"a warrior, a layman"
+},
+{
+"teidil":"Laoiġ",
+"rannCainte":"n",
+"sainmhiiniuu":"calves; plu of \"laoġ\""
+},
+{
+"teidil":"Laoi",
+"rannCainte":"n",
+"sainmhiiniuu":"a lay, a poem"
+},
+{
+"teidil":"Láɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"midst; also ground, floor"
+},
+{
+"teidil":"Leaṁnaċt",
+"rannCainte":"n",
+"sainmhiiniuu":"new milk"
+},
+{
+"teidil":"Leaɼgaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"Leaɼg\", a plain, a slope"
+},
+{
+"teidil":"Leaſ",
+"rannCainte":"n",
+"sainmhiiniuu":"advantage, profit"
+},
+{
+"teidil":"Léiɼṫionól",
+"rannCainte":"n",
+"sainmhiiniuu":"a full muster"
+},
+{
+"teidil":"Liġeaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"a cow"
+},
+{
+"teidil":"Ling",
+"rannCainte":"v",
+"sainmhiiniuu":"imper spring, jump"
+},
+{
+"teidil":"Líniḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"Lín\" (now \"líon\"), a number"
+},
+{
+"teidil":"Loḃaɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"a leper"
+},
+{
+"teidil":"Lóin",
+"rannCainte":"n",
+"sainmhiiniuu":"gen sing of \"Lón\", lunch, provisions"
+},
+{
+"teidil":"Longṗoɼt",
+"rannCainte":"n",
+"sainmhiiniuu":"a camp"
+},
+{
+"teidil":"Loſc",
+"rannCainte":"v",
+"sainmhiiniuu":"past tense of \"loſcaim\", I burn"
+},
+{
+"teidil":"Loſcaḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"to burn; was burned"
+},
+{
+"teidil":"Luamain",
+"rannCainte":"v noun",
+"sainmhiiniuu":"hovering, floating"
+},
+{
+"teidil":"Lúiɼeaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"defensive armour"
+},
+{
+"teidil":"Luſſan",
+"rannCainte":"n",
+"sainmhiiniuu":"(?)"
+},
+{
+"teidil":"Macaoiṁ",
+"rannCainte":"n",
+"sainmhiiniuu":"gen sing of \"Macaoṁ\", a young person; \"Macaoiṁe\" and \"Macaoiṁiḋe\", nom plu"
+},
+{
+"teidil":"Mactíɼe",
+"rannCainte":"n",
+"sainmhiiniuu":"a wolf"
+},
+{
+"teidil":"Maiḋm",
+"rannCainte":"n",
+"sainmhiiniuu":"defeat"
+},
+{
+"teidil":"Macɼaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"young men, boys"
+},
+{
+"teidil":"Mail",
+"rannCainte":"n",
+"sainmhiiniuu":"gen of \"mal\", a chief"
+},
+{
+"teidil":"Maiṫe",
+"rannCainte":"n",
+"sainmhiiniuu":"nobles"
+},
+{
+"teidil":"Maiṫeaṁ",
+"rannCainte":"n",
+"sainmhiiniuu":"forgiveness"
+},
+{
+"teidil":"Mana",
+"rannCainte":"n",
+"sainmhiiniuu":"an omen, a cause"
+},
+{
+"teidil":"Maɼtaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"maɼt\", beef"
+},
+{
+"teidil":"Meaḋa",
+"rannCainte":"n",
+"sainmhiiniuu":"gen sing of \"meaḋ\", mead"
+},
+{
+"teidil":"Meaḃal",
+"rannCainte":"n",
+"sainmhiiniuu":"treachery"
+},
+{
+"teidil":"Meallaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"deceivin"
+},
+{
+"teidil":"Meic",
+"rannCainte":"n",
+"sainmhiiniuu":"gen sing of \"mac\", a son; usually \"mic\""
+},
+{
+"teidil":"Meiɼgeaḋa",
+"rannCainte":"n",
+"sainmhiiniuu":"plu of \"meiɼge\", a standard"
+},
+{
+"teidil":"Menn",
+"rannCainte":"adj",
+"sainmhiiniuu":"clear, pure (?)"
+},
+{
+"teidil":"Miaḋaiḃ",
+"rannCainte":"dat plu of \"miaḋ\"",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Miɼeanna",
+"rannCainte":"n",
+"sainmhiiniuu":"morsels, titbits"
+},
+{
+"teidil":"Moġa",
+"rannCainte":"n",
+"sainmhiiniuu":"gen sing of \"moġ\", a slave"
+},
+{
+"teidil":"Mónainn",
+"rannCainte":"n",
+"sainmhiiniuu":"bogberries"
+},
+{
+"teidil":"Móɼ",
+"rannCainte":"adj",
+"sainmhiiniuu":"many, great"
+},
+{
+"teidil":"Múnaḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"was revealed"
+},
+{
+"teidil":"Muinġin",
+"rannCainte":"n",
+"sainmhiiniuu":"confidence"
+},
+{
+"teidil":"Naiṫɼeaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"a serpent"
+},
+{
+"teidil":"Naſcaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"naſc\" or \"naſg\", a chain or collar"
+},
+{
+"teidil":"Neiṁċɼíona",
+"rannCainte":"undecaying.",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Neiṁeaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"a church, glebe lands"
+},
+{
+"teidil":"Niṁ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat of \"neiṁ\", poison"
+},
+{
+"teidil":"Nim",
+"rannCainte":"I [am] not;	compound of \"ní\" and \"mé\"; It also means \"not to me\"; \"nim dil\" not dear to me.",
+"sainmhiiniuu":"It also means \"not to me\"; \"nim dil\" not dear to me"
+},
+{
+"teidil":"Oide",
+"rannCainte":"n",
+"sainmhiiniuu":"a teacher, a foster father"
+},
+{
+"teidil":"Oiḋeaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"a violent death"
+},
+{
+"teidil":"Oiɼeaċt",
+"rannCainte":"n",
+"sainmhiiniuu":"an assembly, a following"
+},
+{
+"teidil":"Oɼdniḋ",
+"rannCainte":"adj (?)",
+"sainmhiiniuu":"an ordained, or appointed person (?); cf \"ordnige\", \"Passions and Homilies\", page 159, 4250"
+},
+{
+"teidil":"Pupaill",
+"rannCainte":"n",
+"sainmhiiniuu":"a tent; dat of \"pupall\" or \"pupal\""
+},
+{
+"teidil":"Pupla",
+"rannCainte":"n",
+"sainmhiiniuu":"gen of \"pupall\" or \"pupal\""
+},
+{
+"teidil":"Ráiḋim / ɼáḋim",
+"rannCainte":"v",
+"sainmhiiniuu":"I say"
+},
+{
+"teidil":"Ráinig",
+"rannCainte":"v",
+"sainmhiiniuu":"past tense, reached"
+},
+{
+"teidil":"Raṫ",
+"rannCainte":"n",
+"sainmhiiniuu":"pledge, security"
+},
+{
+"teidil":"Raṫaċaſ na ndúl",
+"rannCainte":"n",
+"sainmhiiniuu":"guarantee of nature, of the elements"
+},
+{
+"teidil":"Re",
+"rannCainte":"prep",
+"sainmhiiniuu":"to; now supplanted by \"le\""
+},
+{
+"teidil":"Réana",
+"rannCainte":"n",
+"sainmhiiniuu":"a defeat (?); \"ɼeana\", a sale (O\'Reilly\'s Dictionary)"
+},
+{
+"teidil":"Reḃ(?) perhaps ɼeaḃ",
+"rannCainte":"a choice.",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Reicfiḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"will sell"
+},
+{
+"teidil":"Ricfiḋe a leaſ",
+"rannCainte":"would be needful.",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Riġiɼ",
+"rannCainte":"v",
+"sainmhiiniuu":"reach, arrive; \"go ɼiġiɼ\", until thou reachest"
+},
+{
+"teidil":"Riġna / ɼioġna",
+"rannCainte":"n",
+"sainmhiiniuu":"gen of \"ɼioġain\", a queen"
+},
+{
+"teidil":"Riġ-ḃɼuiḋin",
+"rannCainte":"n",
+"sainmhiiniuu":"dat of \"ɼiġ-ḃɼuiġe\", a noble hostelry"
+},
+{
+"teidil":"Riġe",
+"rannCainte":"n",
+"sainmhiiniuu":"sovereignty; also a combat"
+},
+{
+"teidil":"Rioġḋoṁna",
+"rannCainte":"n",
+"sainmhiiniuu":"royal heir, or crown prince"
+},
+{
+"teidil":"Riſ",
+"rannCainte":"prep",
+"sainmhiiniuu":"to him; now \"leiſ\""
+},
+{
+"teidil":"Riu",
+"rannCainte":"prep",
+"sainmhiiniuu":"to them; now \"leo\""
+},
+{
+"teidil":"Ró",
+"rannCainte":"adj",
+"sainmhiiniuu":"great; \"A ɼó-Laiġniġ\", O great Leinstermen!"
+},
+{
+"teidil":"Ro",
+"rannCainte":"verbal particle",
+"sainmhiiniuu":"now generally \"do\""
+},
+{
+"teidil":"Roċaiɼ",
+"rannCainte":"v",
+"sainmhiiniuu":"fell, killed (obsolete)"
+},
+{
+"teidil":"Ruamoɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"a spade"
+},
+{
+"teidil":"Rugaḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"was sent; also was born"
+},
+{
+"teidil":"Ruſ",
+"rannCainte":"n",
+"sainmhiiniuu":"a wood, a promontory; may be an old dative of \"ɼoſ\""
+},
+{
+"teidil":"Saill",
+"rannCainte":"n",
+"sainmhiiniuu":"bacon"
+},
+{
+"teidil":"Saill bɼuic",
+"rannCainte":"n",
+"sainmhiiniuu":"badger bacon"
+},
+{
+"teidil":"Saoɼ-ċuaiɼt",
+"rannCainte":"n",
+"sainmhiiniuu":"a free visit"
+},
+{
+"teidil":"Sáiṫiġe",
+"rannCainte":"adj",
+"sainmhiiniuu":"satisfactory"
+},
+{
+"teidil":"Seṁiḋe",
+"rannCainte":"adj",
+"sainmhiiniuu":"floating"
+},
+{
+"teidil":"Scɼeapul",
+"rannCainte":"n",
+"sainmhiiniuu":"a scruple in weight"
+},
+{
+"teidil":"Sgeoin",
+"rannCainte":"n",
+"sainmhiiniuu":"dread, fear"
+},
+{
+"teidil":"Sgiaṫ",
+"rannCainte":"n",
+"sainmhiiniuu":"a shield"
+},
+{
+"teidil":"Sguiɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"gen of \"ſgoɼ\", a stud of horses"
+},
+{
+"teidil":"Seiſɼiġ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat of \"ſeiſɼeaċ\", a team of six oxen"
+},
+{
+"teidil":"Sine",
+"rannCainte":"adj",
+"sainmhiiniuu":"elder, eldest"
+},
+{
+"teidil":"Sinſeaɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"ancesters"
+},
+{
+"teidil":"Síoɼ baġa",
+"rannCainte":"adj",
+"sainmhiiniuu":"lastingly valorous"
+},
+{
+"teidil":"Síol",
+"rannCainte":"n",
+"sainmhiiniuu":"posterity, seed"
+},
+{
+"teidil":"Síṫ",
+"rannCainte":"n",
+"sainmhiiniuu":"peace; also \"ſíoṫċáin\"; \"ſíoṫ\", idem"
+},
+{
+"teidil":"Síṫe",
+"rannCainte":"n",
+"sainmhiiniuu":"gen of \"ſíṫ\""
+},
+{
+"teidil":"Sloinneaḋ",
+"rannCainte":"act of naming.",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Smeuɼa",
+"rannCainte":"n",
+"sainmhiiniuu":"berries"
+},
+{
+"teidil":"Snaiġ",
+"rannCainte":"v",
+"sainmhiiniuu":"creep, crawl"
+},
+{
+"teidil":"Soċaiḋe",
+"rannCainte":"n",
+"sainmhiiniuu":"a host, a multitude"
+},
+{
+"teidil":"Soſaɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"the younger"
+},
+{
+"teidil":"Spɼedaiɼe",
+"rannCainte":"n",
+"sainmhiiniuu":"a sprinkler (?)"
+},
+{
+"teidil":"Sɼann",
+"rannCainte":"n",
+"sainmhiiniuu":"snorting"
+},
+{
+"teidil":"Sɼeḃnaiġ",
+"rannCainte":"adj",
+"sainmhiiniuu":"filmy, flowing"
+},
+{
+"teidil":"Sɼólaċ",
+"rannCainte":"adj",
+"sainmhiiniuu":"silken"
+},
+{
+"teidil":"Staec",
+"rannCainte":"n",
+"sainmhiiniuu":"a steak"
+},
+{
+"teidil":"Sgoɼaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"ſgoɼ\", a stud of horses"
+},
+{
+"teidil":"Sganɼaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"fright"
+},
+{
+"teidil":"Suḃa",
+"rannCainte":"n",
+"sainmhiiniuu":"a berry of some kind"
+},
+{
+"teidil":"Sunn",
+"rannCainte":"adv",
+"sainmhiiniuu":"here"
+},
+{
+"teidil":"Taiɼgiɼeaḋ / Taiɼngiɼeaḋ",
+"rannCainte":"v",
+"sainmhiiniuu":"past tense; was foretold"
+},
+{
+"teidil":"Tan",
+"rannCainte":"n",
+"sainmhiiniuu":"time; \"an tan ſin\", then"
+},
+{
+"teidil":"Taoiſeaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"a chief"
+},
+{
+"teidil":"Taoſ",
+"rannCainte":"n",
+"sainmhiiniuu":"dough"
+},
+{
+"teidil":"Tána",
+"rannCainte":"n",
+"sainmhiiniuu":"plunders, spoils"
+},
+{
+"teidil":"Tonaċ / Tanaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"a washing (?)"
+},
+{
+"teidil":"Thaɼcan",
+"rannCainte":"v",
+"sainmhiiniuu":"past tense; foretold"
+},
+{
+"teidil":"Teannaḋ",
+"rannCainte":"n",
+"sainmhiiniuu":"straining, urging"
+},
+{
+"teidil":"Teaċtaiɼiḋe",
+"rannCainte":"n",
+"sainmhiiniuu":"messengers"
+},
+{
+"teidil":"Teaġlaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"a household"
+},
+{
+"teidil":"Teaſaɼgain",
+"rannCainte":"n",
+"sainmhiiniuu":"deliverance"
+},
+{
+"teidil":"Teaɼnann",
+"rannCainte":"v",
+"sainmhiiniuu":"present tense of \"teaɼnaim\", I escape"
+},
+{
+"teidil":"Tiaġ",
+"rannCainte":"n",
+"sainmhiiniuu":"a bag"
+},
+{
+"teidil":"Tioḋnacal",
+"rannCainte":"n",
+"sainmhiiniuu":"a gift, an offering"
+},
+{
+"teidil":"Tionól",
+"rannCainte":"a gathering",
+"sainmhiiniuu":""
+},
+{
+"teidil":"Toḃaċ",
+"rannCainte":"v",
+"sainmhiiniuu":"levying, seizing"
+},
+{
+"teidil":"Toċmaɼc",
+"rannCainte":"n",
+"sainmhiiniuu":"courtship"
+},
+{
+"teidil":"Toɼcḃálaċ",
+"rannCainte":"adj",
+"sainmhiiniuu":"uplifting"
+},
+{
+"teidil":"Toɼcaiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"toɼc\", a hog, a boar"
+},
+{
+"teidil":"Tɼá",
+"rannCainte":"adv",
+"sainmhiiniuu":"indeed, however"
+},
+{
+"teidil":"Tɼaċt",
+"rannCainte":"n",
+"sainmhiiniuu":"a strand"
+},
+{
+"teidil":"Tɼaṫ",
+"rannCainte":"n",
+"sainmhiiniuu":"time, season"
+},
+{
+"teidil":"Tɼéadaiġ",
+"rannCainte":"adj",
+"sainmhiiniuu":"abounding in herds"
+},
+{
+"teidil":"Tɼioċad",
+"rannCainte":"n",
+"sainmhiiniuu":"thirty; \"tɼiċead\", idem"
+},
+{
+"teidil":"Tɼomlaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"main or most part"
+},
+{
+"teidil":"Tuaiſceaɼt",
+"rannCainte":"n",
+"sainmhiiniuu":"northern part"
+},
+{
+"teidil":"Tuicṫena",
+"rannCainte":"n",
+"sainmhiiniuu":"causes, motives (?)"
+},
+{
+"teidil":"Tuiġe",
+"rannCainte":"n",
+"sainmhiiniuu":"straw, thatch"
+},
+{
+"teidil":"Tuile",
+"rannCainte":"n",
+"sainmhiiniuu":"a flood, a deluge"
+},
+{
+"teidil":"Tulaċ",
+"rannCainte":"n",
+"sainmhiiniuu":"a hill, or hillock"
+},
+{
+"teidil":"Tumṫaɼ",
+"rannCainte":"v",
+"sainmhiiniuu":"imper pass; let be dipped or planted"
+},
+{
+"teidil":"Uaſ",
+"rannCainte":"prep",
+"sainmhiiniuu":"above, over"
+},
+{
+"teidil":"Uaṫa",
+"rannCainte":"adj",
+"sainmhiiniuu":"single"
+},
+{
+"teidil":"Uċt",
+"rannCainte":"n",
+"sainmhiiniuu":"a breast"
+},
+{
+"teidil":"Uaiṫne",
+"rannCainte":"n",
+"sainmhiiniuu":"a pillar, a post"
+},
+{
+"teidil":"Uilinn",
+"rannCainte":"n",
+"sainmhiiniuu":"a corner, an elbow"
+},
+{
+"teidil":"Uiḃ",
+"rannCainte":"n",
+"sainmhiiniuu":"dat plu of \"O\" or \"Ua\", male descendants"
+},
+{
+"teidil":"Um / uim",
+"rannCainte":"prep",
+"sainmhiiniuu":"about"
+},
+{
+"teidil":"Uaṁan",
+"rannCainte":"n",
+"sainmhiiniuu":"fear"
+},
+{
+"teidil":"Uɼċuɼ",
+"rannCainte":"n",
+"sainmhiiniuu":"a cast; \"Uɼċuɼ iomɼoill\", a random shot"
+}
+]

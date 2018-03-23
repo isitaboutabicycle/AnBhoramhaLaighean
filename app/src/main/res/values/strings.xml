@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">An Ḃoraṁa Laiġean</string>
+    <string name="title_home">Baile</string>
+    <string name="title_dashboard">Téacs</string>
+    <string name="title_notifications">Nótaí</string>
+    <string name="fadhb_comhad">Bhí fadhb agus comhad á léamh</string>
+</resources>
