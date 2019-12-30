@@ -5,8 +5,12 @@ Noda:
     <nóta u="Uimhir an leathanaigh-uimhir an nóta">Téacs bainteach</nóta>
     "<friotal>Friotal a sheasann ina aonair</friotal>"
     <lal>Lúb ar lár = téacs doléite</lal>
-    [ní mise a chuir isteach é seo - seo mar a bhí sa téacs cheanna]
+    [ní mise a chuir isteach téacs idir lúibíní cearnógacha - seo mar a bhí sa téacs cheanna]
     <i>cló iodálach</i>
+	
+	Clóbhuailfear na fonótaí i gcomhad eile.
+	
+	Déanfar na Corrigenda a chur i bhfeidhm ach an téacs ar fad a bheith clóbhuailte.
 -->
 
 <h4>An Ḃoraṁa Laiġean</h4>
@@ -318,4 +322,82 @@ Maɼ bíd eoin aɼ luamain, go ndealḃ gaċ daṫa</friotal>, ⁊c."</p>
 
 <p>Chonnaiɼc Bɼanduḃ an ſliaḃ lán de ṁacaoṁaiḃ iaɼ ſin; 'ſiad na macaoiṁiḋe do ḃí ann, macaoiṁiḋe Ulaḋ um Diaɼmait mac Aeḋa Róin. Ṫángadaɼ meic Riġ Laiġean aguſ teaġlaċ Ḃɼanduiḃ 'n a dtimċeall, aguſ ġaḃadaɼ aɼ bɼáiġdiḃ iad. "Cia ſiḃ?" aɼ ſiad. "Macɼaḋ Ulaḋ ſinn," aɼ ſiad, "um mac Riġ Ulaḋ." Inniſeaḋ ſin [gaḃáil macɼaḋ Ulaḋ] d'Ultaiḃ. D'éiɼiġ iaɼſain Ulaiḋ, ſeaċt gcéad aguſ ſeaċt míle a líon, eidiɼ laoċ aguſ cléiɼeaċ. Rángadaɼ i ḃfoguſ Bɼanduḃ, aguſ dúḃɼadaɼ:</p>
 
-<p></p>
+<p>"Cɼeud fá'ɼ ġaḃaiſ áɼ maca?" aɼ ſiad.</p>
+<p>"Do ġoid ḃuɼ n-éigean caṫa ḋíom-ſa," aɼ Bɼanduḃ.</p>
+<p>"Goidteaɼ ḋíot-ſa go bɼaṫ," aɼ Riġ Ulaḋ, "aguſ deuntaɼ cɼo-cotaiġ [nó connɼaḋ fola] aguſ aondaċda eadɼainn, aguſ iſ é ſin do ṫaiɼgiɼeaḋ tɼé aiſling <nóta u="30-1">Ċonċoḃaiɼ</nóta> meic Ḟaċtna." Aguſ d'inniſ Riġ Ulaḋ an aiſling, aguſ a dúḃaiɼt:</p>
+
+<p>"<friotal>Ċonnaɼcaſ aiſling iongnaḋ 'nuaiɼ do ḃí im ṡuan;
+An eol do neaċ uaiḃ a míniuġaḋ, iſ an t-ſluaġ?
+Chonnaɼcaſ daḃaċ glaine, go neiṁ óiɼ
+Agam aɼ ċeaɼt-láɼ mo ṫiġe ag Bɼéaġa ag Bóinn.
+Tɼian na daḃaċa d'ḟuiliḃ daoineaḋ, iongnaḋ dál;
+Ní ɼaiḃ aċt aon tɼian de leaṁnaċt aɼ a láɼ;
+Tɼian eile ba fion foɼcliḋ, iongnaḋ liom;
+Daoine cɼom-ċeanna 'n a timċeall, taɼ muiɼ menn.
+Laiġniġ uile giḋ táid ile, líonaiḃ glonn,
+Ṫug mé ḋóiḃ ſeaɼc mo ċɼoiḋe aguſ mo ċonn.</friotal>"</p>
+
+<p>Do ċonnaiɼc Ċonċoḃaɼ an aiſling ſin, iaɼum, aguſ iſ aṁlaiḋ ċonnaiɼc [ſé] Laiġiniġ aguſ Ulaiḋ um an daḃaiġ ſin ag a h-ól. "Tá a ḟioſ agam" [aɼ Riġ Ulaḋ] "iſ é an connɼaḋ do taiɼgiɼeaḋ in ſin, óiɼ 'ſí an ḟuil do connaɼcaḋ iſ in daḃaiġ ſin, fuil an dá ċúigeaḋ i gcoṁɼac. Iſ é an leaṁnaċd an ċanóin diaḋa ċanaſ cléiɼiġ an dá ċúigeaḋ. Iſ é an ḟíon coɼp Cɼíoſt aguſ a ḟuil ioḋbuiɼeaſ na cléiɼiġ," aguſ do ḃí [ſé] 'g a míniuġaḋ aṁluiḋ ſin, aguſ do ɼiġne laoi:</p>
+<p>"<friotal>Deunaiḋ ḋúinn áɼ gconnɼaḋ, 'ſé connɼaḋ tɼé biṫu,
+Riſ na feaḋaiḃ fiona, ɼiſ na ɼioġaiḃ a <nóta u="31-1">Lifiu</nóta>.</friotal></p>
+
+<p>. . . . . . . . . .</p>
+
+<p><friotal>A loċt an dá ċúigeaḋ, cluḋaṁuil in ḃuɼ ſgeulaiḃ,
+<nóta u="31-2">Naɼab dáil ḃuſ ſia ɼe taoiḃ dá ndeanaiḋ.</nóta></friotal>"</p>
+
+<p>Do ṡuiḋ naoiṁ Laiġean aguſ Ulaḋ aɼ an t-ſliaḃ, aguſ deunaid a gconnɼaḋ gan a ḃeiṫ bɼiſte go deo.</p>
+
+<p>Dúḃaiɼt Bɼanduḃ iaɼſain ɼe Riġ Ulaḋ, deiliuġaḋ a longṗuiɼt ɼe Riġ Éiɼeann, "Cionnuſ feudfamoid?" aɼ Riġ Ulaḋ, "Ní annſa," aɼ Bɼanduḃ, "ġeiḃiḋ longṗoɼt ſan áit a ḃfuil longṗoɼt Riġ Éireann. Déanfaid deaḃaiḋ ɼiḃ, aguſ ná fulaingiḋ é, aguſ deiligiḋ ɼiu aṁlaiḋ."</p>
+
+<p>Do ɼiġneadaɼ Ulaiḋ aṁail a dúḃaiɼt Bɼanduḃ ɼiu. D'éiɼiġeadaɼ Conall aguſ Eoġan ċuca, aguſ do ṁaɼḃ dá ċéad díoḃ ſul do cɼíoċnuiġeaḋ a ndeiliuġaḋ. Do ċuaid Ulaiḋ aſ ſin go h-Iniſ Ulaḋ, aguſ do ċlaiḋeadaɼ claḋ umpa innti d'á ſleaġaiḃ, aguſ ċuiɼeadaɼ a n-eaċa eatoɼɼa aguſ <nóta u="32-1">Dangan na Móna</nóta>.</p>
+
+<p>D'iompoiġ a ɼíſ  Eaſbog Aedáin, ċum Bɼanduiḃ, aguſ iſ é do ɼaiḋ, "Móɼ, áṁ," aɼ ſé "an dimiaḋ ṫug mac mo ṁáṫaɼ ḋaṁſa, eaḋon, Aeḋ mac Ainmeɼeċ, aguſ díoġailfiḋ aiɼ é; aguſ do ɼinneaḋ an ɼann ſo:</p>
+<p>"<friotal>Luſſan Aeḋa meic Ainmeɼeċ fágfaɼ ag Laiġniḃ; béaɼfaiḋ fiaċ ciaɼ aɼ a uilinn go Cill Culinn ſiaɼ aṁain.<br/>
+"Tuitfiḋ ó'n ḃfiaċ é aɼ faiṫċe Ċill Culinn, aguſ deunfaiḋ macɼaiḋ Ċile Culinn lioṫɼóid de go ceann ſeaċt mbliaḋan.<br/>
+"Tiocfaiḋ ſgol Cille Daɼa, aguſ goidfiḋ feaɼ díoḃ an liaṫɼóid ſin.<br/>
+"Deunfaiḋ ſé ſpɼédaiɼe ḋe, aguſ ḃeiḋ [ſé] aige go ceann ſeaċt mbliaḋan.<br/>
+"Tiocfaiḋ ſgol <nóta u="32-2">Cluana móɼ Meadoc</nóta> go Cill Daɼa, aguſ goidfiḋ feaɼ díoḃ an ſpɼédaiɼe ſin; aguſ ní ḟeicim a dil ó ſin amaċ.<br/>
+"An ſliaḃ ſo, immoɼɼo, aɼ a ndeaɼnad an codaċ, beiḋ <nóta u="32-3">Sliaḃ an Ċodaiġ</nóta> a ainm ó ſo amaċ; aguſ Sliaḃ Neċtain a ainm go nice <nóta u="32-4">ſo</nóta>.</friotal>"</p>
+
+<p>Imṫiġeaſ an cléiɼeaċ iaɼtain.</p>
+
+<p>Gaḃaiſ Bɼanduiḃ aɼ a h-aon eaċ d'iaɼɼaiḋ ċoṁlann aɼ ḟeaɼáiḃ Éiɼeann. Iſ é ṫáinic d'á ionnſaiġ ó ḟeaɼaiḃ Éiɼeann. Iſ é ṫáinic d'á ionnſaiġ ó ḟeaɼaiḃ Éiɼeann, Blátaċ, taoiſeaċ ſguiɼ Riġ Eiɼeann, aguſ eaċ Riġ Eiɼeann faoi. Aṁlaiḋ, immoɼɼo, ḃí Bláṫaċ, iſ é neiṁneaċ. Ní ṫeilgeaḋ [ſé] uɼċuɼ iomɼoill. Giḋeaḋ, níoɼ ṫug gɼeim dó ſin, óiɼ do ṫuit ſé le Bɼanduḃ, aguſ do baineaḋ a ċeann de. Do ċuaiḋ Bɼanduḃ [go h-áit eile] d'aiṫle an ċoſgaiɼ aguſ eaċ Riġ Éiɼeann leiſ.</p>
+
+<p>Tionóltaɼ iaɼ ſin a ḋaṁɼaḋa aguſ a ġɼeaḋa aṁail d'ḟoɼcan Eaſbog Aedáin. Iſ ann a dúḃaiɼt Bɼanduḃ, "An ḃfaġaim," aɼ ſé, "neaċ do ɼaġaiḋ do ḃɼaṫ an longṗuiɼt feaɼ Eiɼeann aguſ an ɼiġ; aguſ do ḃeiḋeaḋ aɼ áɼ gceann ann nó go ɼiġníd? aguſ beiḋ dualguſ dó aiɼe ſin, eaḋon, beiḋ neaṁ aige ó ċléiɼċiḃ Laiġean má maɼḃṫaɼ [é]; aguſ má ṫeaɼnann [ſé] beiḋ a ṫuaṫ féin ſaoɼ [aige] aguſ mo ċuiḃɼionn féin dó aguſ d'ḟear a ionaid."</p>
+
+<p>Tugaḋ bana ɼiſ ſin.</p>
+
+<p>"Raġad-ſa ann," aɼ Ron Ceɼɼ, mac Duḃanaiġ, meic Riġ <nóta u="33-1">Ua Máil</nóta>. "Taḃaiɼ, din, fuil laoiġ aguſ taoſ ſeagail dam go cuimilteaɼ dam [é]. Taḃaiɼ [ḋam] coċal aguſ tiaġ."</p>
+
+<p>Do ɼinneaḋ aṁlaiḋ ſin, go ɼaiḃ [ſé] aṁail loḃaɼ. Tugaḋ maide ċɼoiſe ḋó, aguſ do ċuiɼ ſé a ġlún 'n a geiḃiſ.</p>
+
+<p>Ċuaiḋ [ſé] ɼoiṁe faoi'n moḋ ſin, aguſ claiḋeaṁ aige faoi eudaċ, guſ an áit i ɼaiḃ maiṫe Eiɼeann ['n a ſeaſaṁ] i ndoɼuſ pupla Aeḋa meic Ainmeɼeċ. Iaɼfaiġid ſgeula ḋe, aguſ ba ṡeaḋ do ɼáiḋ [ſé], a ṫeaċt ó Ċill Belat. "Do ċuaḋaſ go longṗoɼt Laiġean aɼ maidin, aguſ ṫángaſ ṫaɼ m'aiſ a ɼíſ, aguſ do ſgɼioſaḋ mo ḃoṫ aguſ mo ḃɼo, mo ɼuamóɼ aguſ m'eagluiſ," [aɼ sé].</p>
+
+<p>"Fiċe liġeaċ uaim-ſe 'n a íoc ſin," aɼ Riġ Eiɼeann, "má eulaiġim de'n tſluaġ ſo. Aguſ éiɼiġ anonn iſ an pupaill, aguſ [beiḋ] ionad naonḃaiɼ duit ann. aguſ deaċṁaḋ mo ċuiḃɼinn, aguſ miɼeanna an teaġlaiġ. Cad deunaid Laiġniġ?" aɼſ an ɼiġ.</p>
+
+<p>"Atáid ag ulṁuġaḋ biṫ daoiḃ-ſe, aguſ ní ḟuaɼaḃaiɼ ɼiaṁ biaḋ dá mba ſaiṫiġe daoiḃ; atáid ag búiṫ a muc, a maɼt, aguſ a muicḟeola." [aɼ Rón Cerr.]</p>
+
+<p>"Mallaċt aɼ a ċeann!" adúḃaiɼt cineul Eoġain aguſ Connaill.</p>
+
+<p>Dá ṡúil ċuɼaiḋ i gceann an ċlaiṁ, ċiḋim iad," aɼ ſan ɼiġ.</p>
+
+<p>"Maiɼg duitſe! doṁeanma ɼe ɼiġe Eiɼeann, má'ſ ɼem' ṡúiliḃ-ſe <nóta u="34-1">ġeiḃeaſ eagla ṫú</nóta>," [aɼ ſé].</p>
+
+<p>"Ní h-é de ſin," aɼ an ɼiġ. "Teaċtaiɼe uainn aɼ ceann Duḃ-duin, Riġ <nóta u="34-2">Airġiall</nóta>!</p>
+
+<p>Ránaiġ iaɼ ſain Duḃ-dun. Dúḃaiɼt Riġ Eiɼeann ɼiſ. "Eiɼiġ." aɼ ſé, "aguſ caṫ Aiɼġiall leat, go <nóta u="">Bun Aife</nóta> ó ḋeaſ, aguſ go dtí Cɼuaḋaḃaill, aguſ deunaiḋ fóɼaiɼe ann, go naċ tugaid Laiġniġ amuſ longṗoiɼt oɼɼainn."</p>
+
+<p>Do ġaḃadaɼ ɼómpa aṁail d'oɼduiġ Aeḋ ḋóiḃ.</p>
+
+<p>Iſ annſain a dúḃaiɼt Aeḋ mac Ainmeɼeċ ɼe n-a ġiolla, "Beiɼ leat coċal Ċoluim-Cille ḋam, go ɼaiḃ ſé umam anoċt, go ɼaiḃ díon dam é aɼ Laiġniḃ," óiɼ do ġeall Colum-cille ḋóſan naċ maɼḃfuiḋe é aſ a ċoċal.</p>
+
+<p>Feaċt eile, d'ḟiafɼaiġ Aeḋ de Cholum-Cille, "Cia líon, a ċléiɼiġ," aɼ ſé, "do caſaḋ oɼt féin de ɼiġiḃ ɼaġaſ ċum neiṁe?"</p>
+
+<p>Iſ eaḋ do ɼáiḋ Colum-cille, "Iſ deiṁin," aɼ ſé, "naċ aiṫniġim aċt tɼí ɼiġṫe aṁáin, eaḋon, Daiṁin Daṁaiɼgid, Riġ Aiɼġiall, Ailill Inbanna, Riġ Chonnaċt, aguſ Feaɼadaċ Finn, mac Duaċ de <nóta u="35-1">Ċoɼca Laiġḋe</nóta>, Riġ Oſɼaiġe."</p>
+
+<p>"Cia an ṁaiṫ do ɼiġne ſiad" aɼ Aeḋ, "ſeaċ an ɼiġṫiḃ eile?"</p>
+
+<p>Ní annſa," aɼ Colum-Cille, "Daiṁín Daṁ-aiɼgid, trá, ní ḋeaċaiḋ cléiɼeaċ faoi ḋiultaḋ uaiḋ; níoɼ ṁaſluiġ ſé cléiɼeaċ, aguz níoɼ ċɼáiḋ ceall ná neiṁeaḋ; do ṫioḋnaic [ſé] móɼán do'n Ċoiṁḋe. Do ċuaiḋ ſé iaɼum ċum neiṁe aɼ an gceannṡaċt ſin do ɼiġne [ſé] ɼe muintiɼ an Choiṁḋeaḋ, aguſ atáid na cléiɼiġ ag gaḃáil a éagcaɼca ó ſin amaċ," aɼ Colum-Cille.</p>
+
+<p>"<nóta u="35-2">Ailil Inbanna</nóta>, [Riġ Chonnaċt], iſ aſ ſo fuaiɼ ſé ceannſaċd an Ċoiṁḋeaḋ: Caṫ Ċula Ċonaiɼe do ċuiɼ ſé ɼe clannaiḃ Fiaċɼaċ, aguſ do ɼuagaḋ 'ſan gcaṫ ſin é. Dúḃaiɼt ſé ɼe aɼa a ċaɼbaid, 'Feuċ aɼ d'aiſ dúinn, aguſ abaiɼ an móɼ an maɼḃaḋ, aguſ an foguſ dúinn luċt an ṁaɼḃṫa.' D'ḟeuċ an t-ara aiɼ a aiſ, aguſ iſ eaḋ do ɼáiḋ, 'Iſ doḟualaing an maɼḃaḋ le maɼḃṫaɼ do ṁuinteaɼ-ſa' aɼ ſé. 'Ní h-é a loċt féin ṫéiḋeaſ oɼɼa,' aɼ ſé [Ailill], 'aċt m'uaḃaiɼ-ſe, aguſ m'ainḟiɼinne; aguſ iompoiġ ḋúinn an caɼbad 'n a n-aġaiḋ,' aɼ ſé, 'óiɼ má maɼḃṫaɼ miſe, beiḋ teaſaɼgain do ṁóɼán.' D'iompuiġeaḋ iaɼtain an caɼbad a n-aġaiḋ an naṁad, aguſ do ɼiġne Ailill dian-aiṫɼiġe iaɼtain, aguſ do ṫuit ſé le náṁdaiḃ. <nóta u="35-3">Fuaiɼ an feaɼ ſain ceannſaċt an Ċoiṁḋeaḋ</nóta>," aɼ Colum-Cille.</p>
